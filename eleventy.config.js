@@ -4,6 +4,10 @@ module.exports = function(eleventyConfig) {
   
   // Copy any static assets
   eleventyConfig.addPassthroughCopy("src/assets");
+  
+  // Copy Cloudflare Pages configuration files
+  eleventyConfig.addPassthroughCopy("_headers");
+  eleventyConfig.addPassthroughCopy("_redirects");
 
   // Add date filter
   eleventyConfig.addFilter("date", function(date, format) {
