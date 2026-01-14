@@ -1,0 +1,16 @@
+{
+    "name": "black-and-white-apps",
+    "version": "1.0.0",
+    "description": "App homepages with privacy policies",
+    "scripts": {
+        "build": "npx @11ty/eleventy",
+        "serve": "npx @11ty/eleventy --serve",
+        "start": "npx @11ty/eleventy --serve"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@11ty/eleventy": "^3.1.2"
+    }
+}

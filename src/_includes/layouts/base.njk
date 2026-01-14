@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {% endif %}Black and White Apps</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="/" class="logo">Black & White</a>
+      <div class="nav-links">
+        <a href="/">Home</a>
+      </div>
+    </nav>
+  </header>
+  
+  <main>
+    {{ content | safe }}
+  </main>
+  
+  <footer>
+    <p>&copy; {{ "now" | date("%Y") }} Black and White Apps. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
