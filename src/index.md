@@ -35,3 +35,10 @@ title: Home
   </div>
 </div>
 
+<div class="apps-section">
+  <h2>get connected</h2>
+  <div class="app-listing">
+    <p><a href="https://github.com/blackandwhiteapps" target="_blank" rel="noopener noreferrer">GitHub →</a></p>
+  </div>
+</div>
+
