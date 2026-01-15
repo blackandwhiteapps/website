@@ -5,23 +5,21 @@ title: "launcher: black and white"
 
 <div class="app-hero">
   <h1>launcher</h1>
-  <p class="tagline">Take back control of your Android home screen</p>
+  <p class="tagline">Your home screen shouldn't scroll.</p>
 </div>
 
 <div class="app-content">
   <section>
     <h2>About</h2>
-    <p>launcher: black and white is a minimalist Android launcher that puts you back in control. No distractions, no bloat, just a clean and simple home screen experience. And best of all? <strong>No ads. Ever.</strong></p>
+    <p>launcher is a minimalist Android launcher that puts you back in control. No distractions, no bloat, just a clean and simple home screen experience. And best of all? <strong>No ads. No tracking. Ever.</strong> Just your apps.</p>
   </section>
 
   <section>
     <h2>Features</h2>
     <ul>
-      <li><strong>No ads</strong> - completely ad-free experience</li>
       <li>Simple and clean interface</li>
       <li>Minimalist black and white design</li>
       <li>Fast and lightweight</li>
-      <li>Customizable home screen</li>
       <li>Completely private - no data collection</li>
     </ul>
   </section>

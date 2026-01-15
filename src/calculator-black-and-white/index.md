@@ -1,17 +1,17 @@
 ---
 layout: layouts/base.njk
-title: "calculator: black and white"
+title: "calculator"
 ---
 
 <div class="app-hero">
-  <h1>calculator: black and white</h1>
-  <p class="tagline">A minimalist calculator experience</p>
+  <h1>calculator</h1>
+  <p class="tagline">You need adds. Not ads.</p>
 </div>
 
 <div class="app-content">
   <section>
     <h2>About</h2>
-    <p>calculator: black and white is designed with simplicity and privacy in mind. We believe in creating tools that respect your privacy completely.</p>
+    <p>2 plus 2 is 4, and so on. Scroll through history, use parentheses. Better yet, do the math in your head first, and just use this app to verify.</p>
   </section>
 
   <section>
