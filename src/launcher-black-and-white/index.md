@@ -25,6 +25,12 @@ title: "launcher: black and white"
   </section>
 
   <section>
+    <h2>Download</h2>
+    <a href="https://play.google.com/store/apps/details?id=com.blackandwhite.launcher">Android</a>
+    <p>Not available on iPhones or iPads</p>
+  </section>
+
+  <section>
     <h2>Privacy</h2>
     <p>This app collects <strong>no data at all</strong>. No analytics, no tracking, no personal information. Your privacy is our priority.</p>
     <p><a href="/launcher-black-and-white/privacy" class="button">Read our Privacy Policy</a></p>
