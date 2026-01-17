@@ -33,6 +33,12 @@ title: Home
     <p>An Android launcher</p>
     <p><a href="/launcher-black-and-white/">View App →</a> | <a href="/launcher-black-and-white/privacy">Privacy Policy →</a></p>
   </div>
+
+  <div class="app-listing">
+    <h3><a href="/rows-and-columns-black-and-white/">rows and columns</a></h3>
+    <p>A solo strategy game</p>
+    <p><a href="/rows-and-columns-black-and-white/">View App →</a> | <a href="/rows-and-columns-black-and-white/privacy">Privacy Policy →</a></p>
+  </div>
 </div>
 
 <div class="apps-section">
