@@ -123,6 +123,24 @@ main {
   font-size: 1.1rem;
 }
 
+.app-content a:not(.button) {
+  color: var(--color-text);
+  text-decoration: underline;
+  text-decoration-color: var(--color-accent);
+  text-underline-offset: 3px;
+  transition: opacity 0.2s;
+}
+
+.app-content a:not(.button):visited {
+  color: var(--color-accent);
+  text-decoration-color: var(--color-accent);
+}
+
+.app-content a:not(.button):hover {
+  opacity: 0.7;
+  text-decoration-color: var(--color-text);
+}
+
 /* Buttons */
 .button {
   display: inline-block;
@@ -225,7 +243,6 @@ main {
 }
 
 .apps-section {
-  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -236,15 +253,21 @@ main {
 }
 
 .apps-grid {
-  display: grid;
-  grid-template-columns: 1fr;
+  display: flex;
+  flex-direction: column;
   gap: calc(var(--spacing-unit) * 4);
 }
 
-@media (min-width: 600px) {
+@media (min-width: 768px) {
   .apps-grid {
-    grid-template-columns: repeat(2, 1fr);
+    flex-direction: row;
+    flex-wrap: wrap;
     gap: calc(var(--spacing-unit) * 4) calc(var(--spacing-unit) * 3);
+  }
+  
+  .apps-grid .app-listing {
+    flex: 1;
+    min-width: 300px;
   }
 }
 
