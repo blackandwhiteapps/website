@@ -12,6 +12,7 @@ title: "rows and columns: black and white"
   <section>
     <h2>About</h2>
     <p>rows and columns: black and white is a minimalist solo strategy game where you place shapes onto a grid. Challenge yourself with thoughtful placement and strategic thinking. And best of all? <strong>No ads. No tracking. Ever.</strong> Just pure gameplay.</p>
+    <p><a href="https://play.google.com/store/apps/details?id=com.blackandwhite.rows_and_columns&pli=1" target="_blank" rel="noopener noreferrer">Download on Google Play →</a></p>
   </section>
 
   <section>
@@ -33,4 +34,13 @@ title: "rows and columns: black and white"
     <p><a href="/rows-and-columns-black-and-white/privacy" class="button">Read our Privacy Policy</a></p>
   </section>
 </div>
+
+<div class="apps-section">
+  <h2>get connected</h2>
+  <div class="app-listing">
+    <p><a href="https://github.com/blackandwhiteapps/rows-and-columns" target="_blank" rel="noopener noreferrer">GitHub →</a></p>
+  </div>
+</div>
+
+
 

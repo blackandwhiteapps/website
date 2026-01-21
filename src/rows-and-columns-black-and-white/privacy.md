@@ -47,3 +47,5 @@ title: "Privacy Policy - rows and columns: black and white"
   <p class="back-link"><a href="/rows-and-columns-black-and-white/">← Back to rows and columns: black and white</a></p>
 </div>
 
+
+
