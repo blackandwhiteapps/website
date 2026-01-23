@@ -40,6 +40,12 @@ title: Home
       <p>A solo strategy game</p>
       <p><a href="/rows-and-columns-black-and-white/">View App →</a> | <a href="/rows-and-columns-black-and-white/privacy">Privacy Policy →</a></p>
     </div>
+
+    <div class="app-listing">
+      <h3><a href="/minesweeper-black-and-white/">minesweeper</a></h3>
+      <p>Classic puzzle game</p>
+      <p><a href="/minesweeper-black-and-white/">View App →</a> | <a href="/minesweeper-black-and-white/privacy">Privacy Policy →</a></p>
+    </div>
   </div>
 </div>
 
