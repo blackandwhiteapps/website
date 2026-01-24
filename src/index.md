@@ -46,6 +46,12 @@ title: Home
       <p>Classic puzzle game</p>
       <p><a href="/minesweeper-black-and-white/">View App →</a> | <a href="/minesweeper-black-and-white/privacy">Privacy Policy →</a></p>
     </div>
+
+    <div class="app-listing">
+      <h3><a href="/tuner-black-and-white/">tuner</a></h3>
+      <p>A chromatic tuner for instruments</p>
+      <p><a href="/tuner-black-and-white/">View App →</a> | <a href="/tuner-black-and-white/privacy">Privacy Policy →</a></p>
+    </div>
   </div>
 </div>
 
