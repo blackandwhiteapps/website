@@ -38,7 +38,7 @@ title: "minesweeper: black and white"
 <div class="apps-section">
   <h2>get connected</h2>
   <div class="app-listing">
-    <p><a href="https://github.com/blackandwhiteapps/minesweeper" target="_blank" rel="noopener noreferrer">GitHub →</a></p>
+    <p><a href="https://github.com/blackandwhiteapps/minesweeper" target="_blank" rel="noopener noreferrer">GitHub →</a> | <a href="https://github.com/blackandwhiteapps/minesweeper/issues/new" target="_blank" rel="noopener noreferrer">Report an Issue →</a></p>
   </div>
 </div>
 

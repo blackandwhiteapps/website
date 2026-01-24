@@ -35,7 +35,7 @@ title: "calculator"
 <div class="apps-section">
   <h2>get connected</h2>
   <div class="app-listing">
-    <p><a href="https://github.com/blackandwhiteapps/calculator" target="_blank" rel="noopener noreferrer">GitHub →</a></p>
+    <p><a href="https://github.com/blackandwhiteapps/calculator" target="_blank" rel="noopener noreferrer">GitHub →</a> | <a href="https://github.com/blackandwhiteapps/calculator/issues/new" target="_blank" rel="noopener noreferrer">Report an Issue →</a></p>
   </div>
 </div>
 
