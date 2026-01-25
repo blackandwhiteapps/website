@@ -52,6 +52,12 @@ title: Home
       <p>A chromatic tuner for instruments</p>
       <p><a href="/tuner-black-and-white/">View App →</a> | <a href="/tuner-black-and-white/privacy">Privacy Policy →</a></p>
     </div>
+
+    <div class="app-listing">
+      <h3><a href="/weather-black-and-white/">weather</a></h3>
+      <p>Simple weather information</p>
+      <p><a href="/weather-black-and-white/">View App →</a> | <a href="/weather-black-and-white/privacy">Privacy Policy →</a></p>
+    </div>
   </div>
 </div>
 
